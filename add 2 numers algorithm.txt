@@ -1,0 +1,6 @@
+Step one: Take two variables (x,y)
+Step two: Store two values in the variables (x,y) for example (2,3)
+Step three: Print the two values (x,y)
+Step four: Take another variable which will store the sum of the two variable (z)
+Step five: (z)=(x)+(y)
+Step six: Print the value of (z)
